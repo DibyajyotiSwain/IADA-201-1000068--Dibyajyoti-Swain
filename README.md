@@ -126,7 +126,7 @@ The full dataset used for training and testing can be accessed here:
 | `app.py`            | Streamlit web app for real-time detection         |
 | `train_model.ipynb` | Model training notebook                           |
 | `requirements.txt`  | List of dependencies                              |
-| `models/`           | Contains trained model (`drowsiness_model_v2.h5`) |
+| `models/`           | Contains trained model (`drowsiness_model.h5`) |
 | `sample/`           | Contains screenshots of project results           |
 | `README.md`         | Project documentation                             |
 
@@ -136,11 +136,3 @@ The full dataset used for training and testing can be accessed here:
 
 This project demonstrates how **AI and Deep Learning** can be applied to enhance road safety.
 Through effective classification of facial states and real-time monitoring, it helps prevent driver fatigue-related accidents and serves as a strong example of **applied computer vision for human safety**.
-
----
-
-statement, screenshots, and submission checklist.
-
-Once you paste this into your repo, review it once with your actual links and you’re done ✅
-
-Would you like me to now help you write a **short GitHub repo description and tags** (the one that appears at the top of your repo under the title — to make it look professional)?

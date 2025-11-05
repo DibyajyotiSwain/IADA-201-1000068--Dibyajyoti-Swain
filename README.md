@@ -4,7 +4,7 @@ Machine Learning and Deep Learning Summative Assignment
 🚗 Driver Drowsiness & Distraction Detection System (AI-Based)
 
 **Live Web Application**
-**Streamlit App:** [Click to Open](https://yourappname.streamlit.app)
+**Streamlit App:** 
 
 ## 🧠 Project Overview
 
@@ -37,7 +37,7 @@ The dataset contains facial images categorized into four classes:
 
 ### 📦 Full Dataset Access
 The full dataset used for training and testing can be accessed here:
-👉 [Click to Open Dataset on Google Drive](https://drive.google.com/yourdatasetlink)
+👉 [Click to Open Dataset on Google Drive](https://drive.google.com/drive/folders/1qr8fCRjJmBEjqg-xNDkEzIzVqq5GZ8R7)
 
 ## ⚙️ Data Preprocessing
 

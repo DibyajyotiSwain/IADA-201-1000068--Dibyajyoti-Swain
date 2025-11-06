@@ -2,6 +2,7 @@
 Machine Learning and Deep Learning Summative Assignment
 
 🚗 Driver Drowsiness & Distraction Detection System (AI-Based)
+**APP LINK**: https://iada-201-1000068--dibyajyoti-swain-sycn35ymb9p6sade6r23qm.streamlit.app/
 
 ## 🧠 Project Overview
 

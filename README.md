@@ -3,9 +3,6 @@ Machine Learning and Deep Learning Summative Assignment
 
 🚗 Driver Drowsiness & Distraction Detection System (AI-Based)
 
-**Live Web Application**
-**Streamlit App:** https://iada-201-1000068--dibyajyoti-swain-sycn35ymb9p6sade6r23qm.streamlit.app/
-
 ## 🧠 Project Overview
 
 This project aims to prevent road accidents caused by **driver fatigue and distraction** using an AI-powered real-time monitoring system.
